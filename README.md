@@ -10,7 +10,7 @@ https://github.com/dreidelman/soon
 </p>
 
 <p align="center">A smooth, modifiable theme for simple-minded people.</p>
-<h6 align="center">Founded by drei#3612 | 1102042422898335754<br />Maintained by Squiggleton IV of Bosnia#7613 | 1001596470971076728 </h6>
+<h6 align="center">Founded by drei#3612 | 1102042422898335754<br />Maintained by lilytistic#7613 | 1001596470971076728 </h6>
 
 ---
 
