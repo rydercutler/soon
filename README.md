@@ -52,6 +52,7 @@ https://github.com/dreidelman/soon
 
 ## Credits
 
+- [lilytistic](https://github.com/lilytistic) for maintaining the theme
 - [carrot](https://github.com/ObjectiveSlayer) for being a real homie
 - [Obscure](https://github.com/Obscure-Git) for the icon change
 - [blueb442](https://github.com/blueb442) for the color palette
