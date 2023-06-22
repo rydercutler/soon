@@ -38,7 +38,7 @@ Do NOT modify this file if you dont know what youre doing.
  * Replaces Emojis
  * Delete this @import if you want the regular discord emojis (Docs coming soon (maybe))
 */
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
+
 
 :root {
   /* Banners (modifiable!) */
@@ -76,7 +76,7 @@ Do NOT modify this file if you dont know what youre doing.
   --rs-phone-visible: none; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   
   /* Chat Bubbles (modifiable!) */
-      --chat-bubble: 1; /* 1 to enable chat bubbles, 0 to disable chat bubbles */
+      --chat-bubble: 0; /* 1 to enable chat bubbles, 0 to disable chat bubbles */
 
     --chat-bubble-background-color: #1f1d27a1; /* Background Color of chat bubbles | #1f1d27a1 */
     --chat-bubble-border-color: none; /* Chat bubble border | [color] to enable - none to disable */
